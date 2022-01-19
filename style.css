@@ -1,0 +1,14 @@
+
+.bi-star-fill{
+    color: yellow;
+}
+.card.shadow{
+    border-radius: 15px;
+}
+img{
+    width: 670px;
+    height: 670px;
+}
+@media(min-width:768px) {
+    
+}
